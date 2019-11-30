@@ -1,0 +1,48 @@
+.main{
+    height: 30em;
+    background-color: white;
+    padding-top:5%;
+    padding-bottom: 5%;
+    margin-top: 12%;
+    border-radius: 15px 15px 15px 15px;
+    -moz-border-radius: 15px 15px 15px 15px;
+    -webkit-border-radius: 15px 15px 15px 15px;
+    border: 0px solid #000000; 
+
+    
+}
+body{
+    background: rgb(80,255,215);
+    background: linear-gradient(90deg, rgba(80,255,215,1) 8%, rgba(76,189,190,1) 51%, rgba(67,156,182,1) 100%);
+}
+#titulo{
+    margin: 0 auto;
+}
+.input{
+	padding-top: 10%;
+}
+input[type="submit"]{
+    background-color: pink;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 7px;
+    color: white;
+    font-size: 17px;
+    width: 100%;
+    
+    
+}
+
+.integrantes{
+    margin-top: 5em;
+}
+textarea{
+	width: 70%;
+	margin-left: 15%;
+	font-size: 20px;
+
+}
+label{
+    padding-right: 20px;;
+}
